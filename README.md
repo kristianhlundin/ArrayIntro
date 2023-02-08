@@ -1,0 +1,2 @@
+# ArrayIntro
+Datastruktur-Array oppgave
